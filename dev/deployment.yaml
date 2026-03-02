@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: hiring-app
-        image: waseema761/hiring-app:9
+        image: waseem08/hiring-app:9
         ports:
         - containerPort: 8080
